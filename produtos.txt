@@ -1,0 +1,5 @@
+ 879879 - jpk - chocolate - 10,30 - cofee
+ 213132132 - kaka - choco - 05,30 - doce
+ 645465546 - jojo - pao - 8,80 - paes
+ 0101 - jpk - feijao - 10,30 - cereais
+ 7878 - jpf - carne - 20,20 - acougue
